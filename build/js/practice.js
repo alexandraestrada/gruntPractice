@@ -1,0 +1,1 @@
+function add(){return console.log("herrro"),num1+num2}var num1=2,num2=2;
